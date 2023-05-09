@@ -100,7 +100,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Whatsive. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Whatsive, hecho con Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

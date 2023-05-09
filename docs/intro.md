@@ -2,28 +2,20 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Tutorial de Api Whatsive
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Aprende como implementar Whatsive en tu sistema en pocos pasos.
 
-## Getting Started
 
-Get started by **creating a new site**.
+### ¿Qué necesitas?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- Identificar el lenguaje con el que vas a implementar la Api.
 
-### What you'll need
+## Envía 
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Envía mensajes sin límites a los contactos que desees.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
+<!-- ```bash
 npm init docusaurus@latest my-website classic
 ```
 
@@ -44,4 +36,4 @@ The `cd` command changes the directory you're working with. In order to work wit
 
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes. -->

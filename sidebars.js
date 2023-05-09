@@ -21,11 +21,9 @@ const sidebars = {
   tutorialSidebar: [
     'intro',
     'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
+    'hello2',
+    'hello3',
+    'hello4'
   ],
   
 };
